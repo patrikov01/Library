@@ -1,0 +1,33 @@
+[a
+a
+aa
+a
+a
+10
+10
+10
+,Ivan Vazov
+Pod igoto
+roman
+vazrozhdenska
+istoricheska
+1893
+9
+1
+,Hristo Botev
+Na proshtavane
+stihotvorenie
+tvorba
+istoriq
+1868
+7
+2
+,William Shakespeare
+Hamlet
+tragedy
+none
+hamlet
+1601
+6
+3
+]
